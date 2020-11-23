@@ -4,26 +4,27 @@ My Private Bookmark
 + Javascript - ES6
   + ES-CN/es6features: Overview of ECMAScript 6 features 中文版 - https://github.com/ES-CN/es6features
 
-+ Python - Framework
-  + 選擇一個 Python Web 框架：Django vs Flask vs Pyramid - http://translate17.com/article/1095
-
-+ Python - Framework (Falcon)
-  + Falcon - The minimalist Python WSGI framework - https://falconframework.org/#Metrics
-  + open-falcon/book: open-falcon document - https://github.com/open-falcon/book
-
-+ Python - Framework (Django)
-  + How the Internet works · Django Girls Tutorial - https://tutorial.djangogirls.org/en/how_the_internet_works/
-  + Template Tags · Django Girls 學習指南 - https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/django/template_tags.html
-  + Translation | Django documentation | Django - https://docs.djangoproject.com/en/1.10/topics/i18n/translation/#gettext-on-windows
-
 + Python
-  + PyPy - Welcome to PyPy - http://pypy.org/
-  + 轻量级Web服务器 Tornado - http://osp.io/archives/2375
-  + open-falcon/book: open-falcon document - https://github.com/open-falcon/book
-  + Python 开源项目大全 - http://www.open-open.com/lib/view/open1389852374523.html / http://www.iteye.com/news/28717-2013-top-python-projects
-  + How to make a Python script run like a service or daemon in Linux - Stack Overflow - http://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux
-  + Twisted - event-driven networking engine - http://twistedmatrix.com/trac/
+  + Python - Framework
+    + 選擇一個 Python Web 框架：Django vs Flask vs Pyramid - http://translate17.com/article/1095
   
+  + Python - Framework (Falcon)
+    + Falcon - The minimalist Python WSGI framework - https://falconframework.org/#Metrics
+    + open-falcon/book: open-falcon document - https://github.com/open-falcon/book
+  
+  + Python - Framework (Django)
+    + How the Internet works · Django Girls Tutorial - https://tutorial.djangogirls.org/en/how_the_internet_works/
+    + Template Tags · Django Girls 學習指南 - https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/django/template_tags.html
+    + Translation | Django documentation | Django - https://docs.djangoproject.com/en/1.10/topics/i18n/translation/#gettext-on-windows
+  
+  + Python
+    + PyPy - Welcome to PyPy - http://pypy.org/
+    + 轻量级Web服务器 Tornado - http://osp.io/archives/2375
+    + open-falcon/book: open-falcon document - https://github.com/open-falcon/book
+    + Python 开源项目大全 - http://www.open-open.com/lib/view/open1389852374523.html / http://www.iteye.com/news/28717-2013-top-python-projects
+    + How to make a Python script run like a service or daemon in Linux - Stack Overflow -   http://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux
+    + Twisted - event-driven networking engine - http://twistedmatrix.com/trac/
+    
 + PHP framework  
   + Phalcon 中文教學筆記 (高性能的PHP框架 - Phalcon Framework) - http://haofeng-luo-blog.logdown.com/posts/235689-phalcon-notes
   
@@ -132,7 +133,6 @@ My Private Bookmark
   + Firebase雲端訊息-發送測試通知至Android APP中 - 綠豆湯 - https://litotom.com/2016/06/26/firebase-android-send-2/
   + react-native-fcm/Examples/simple-fcm-client/android/app/src/main/res/mipmap-hdpi at master · evollu/react-native-fcm · GitHub - https://github.com/evollu/react-native-fcm/tree/master/Examples/simple-fcm-client/android/app/src/main/res/mipmap-hdpi
 
-
 + odoo
   + 双计量单位方案征集，如能实现，定当酬谢～ - 实施应用 - ODOO 中文论坛 - https://www.odoochina.net/t/topic/772/11
   + 帐套配置 - https://doc.odoo.com/7.0/zh_CN/book/1/1_3_Real_Case/1_3_Real_Case_db_setup/
@@ -160,20 +160,21 @@ My Private Bookmark
   + node.js Native Extensions - https://ivanvergiliev.github.io/node-cpp/#references
   + Build a NodeJS cinema API Gateway and deploying it to Docker (part 4) – https://medium.com/@cramirez92/build-a-nodejs-cinema-api-gateway-and-deploying-it-to-docker-part-4-703c2b0dd269#.73hrsxj0r
    
-+ Perl Framework (Dancer)
-  + Dynamic routing in Dancer is dynamic - http://advent.perldancer.org/2014/23
-
-+ Perl Framework (Mojolicious)
-  + Perl的web框架Mojolicious与异步数据库操作 - http://bbs.chinaunix.net/thread-4102346-1-1.html
-  + jberger/MojoBook - https://github.com/jberger/MojoBook?files=1
-  + mojo lite学习笔记之自身用法 - http://www.freeoa.net/development/perl/mojo-lite-study-note-self-ref_3003.html
-  + Moving web code base from Catalyst to Mojolicious – https://scalability.org/2011/12/moving-web-code-base-from-catalyst-to-mojolicious/
-
 + Perl
-  + Raisin - a REST API micro framework for Perl. - https://metacpan.org/pod/Raisin
-  + A Perl toolchain for building micro-services at scale - https://engineering.semantics3.com/2016/06/15/a-perl-toolchain-for-building-micro-services-at-scale/
-  + Projects and Companies using Mojolicious - https://github.com/kraih/mojo/wiki/Projects-and-Companies-using-Mojolicious
-  + Deploy Perl Mojolicious web apps to Heroku - http://tempire.github.io/mojolicious-command-deploy-heroku/
+  + Perl Framework (Dancer)
+    + Dynamic routing in Dancer is dynamic - http://advent.perldancer.org/2014/23
+  
+  + Perl Framework (Mojolicious)
+    + Perl的web框架Mojolicious与异步数据库操作 - http://bbs.chinaunix.net/thread-4102346-1-1.html
+    + jberger/MojoBook - https://github.com/jberger/MojoBook?files=1
+    + mojo lite学习笔记之自身用法 - http://www.freeoa.net/development/perl/mojo-lite-study-note-self-ref_3003.html
+    + Moving web code base from Catalyst to Mojolicious – https://scalability.org/2011/12/moving-web-code-base-from-catalyst-to-mojolicious/
+  
+  + Perl
+    + Raisin - a REST API micro framework for Perl. - https://metacpan.org/pod/Raisin
+    + A Perl toolchain for building micro-services at scale - https://engineering.semantics3.com/2016/06/15/a-perl-toolchain-for-building-micro-services-at-scale/
+    + Projects and Companies using Mojolicious - https://github.com/kraih/mojo/wiki/Projects-and-Companies-using-Mojolicious
+    + Deploy Perl Mojolicious web apps to Heroku - http://tempire.github.io/mojolicious-command-deploy-heroku/
  
 + Golang
   + Build a RESTful API Server with Golang and MySQL - Jinchuriki - http://blog.narenarya.in/build-rest-api-go-mysql.html
@@ -220,6 +221,11 @@ My Private Bookmark
 + Static
   + Top Computer Languages 2017 - http://statisticstimes.com/tech/top-computer-languages.php
   + Web Development Diagram - https://coggle.it/diagram/Vz9LvW8byvN0I38x
+
++ Design
+  + fav icon
+    + favicon.io - https://favicon.io/
+    + Free Logo Design - https://www.freelogodesign.org/
 
 + Shop
   + 2017開網店必修課：經營網店7個不該犯的錯 | Shopline 網店攻略 - https://shopline.hk/blog/seven-mistakes-to-avoid-with-your-ecommerce-business/
